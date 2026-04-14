@@ -9,6 +9,9 @@
 ## How to Start
 Start with xampp(Apache, MySQL), npm run dev (bash), php artisan reverb:start (bash), php artisan serve (bash). If xampp MySQL does not start, do: Go to xampp folder, navigate to xampp/MySQL/data, then delete aria_log.00000001 and aria_log_control. Start app by going to site "http://127.0.0.1:8000". 
 
+## Group, Solo
+Lunag, Jefferson M.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
