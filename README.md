@@ -6,7 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## How to Start
+
+## How To Start
 Start with xampp(Apache, MySQL), npm run dev (bash), php artisan reverb:start (bash), php artisan serve (bash). If xampp MySQL does not start, do: Go to xampp folder, navigate to xampp/MySQL/data, then delete aria_log.00000001 and aria_log_control. Start app by going to site "http://127.0.0.1:8000". 
 
 ## Group, Solo
